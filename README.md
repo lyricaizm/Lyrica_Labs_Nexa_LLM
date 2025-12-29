@@ -6,8 +6,8 @@ Modellerimizi kullanmak ve API dökümantasyonuna ulaşmak için [Nexa](https://
 ## Kullanım
 
 ```python
-from lyrica_nexa import NexaClient
+from lyrica_labs_nexa import NexaClient
 
 client = NexaClient(token="API_TOKENİNİZ")
 print(client.list_models())
-print(client.generate_text("Merhaba Asya!", model="nexa-5.0-preview"))
+print(client.generate_text("Merhaba Utku!", model="nexa-5.0-preview"))
