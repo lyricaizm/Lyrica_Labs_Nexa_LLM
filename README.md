@@ -6,7 +6,7 @@ Modellerimizi kullanmak ve API dökümantasyonuna ulaşmak için [Nexa](https://
 ## Kullanım
 
 ```python
-from lyrica_labs_nexa import NexaClient
+from lyricalabs import NexaClient
 
 client = NexaClient(token="API_TOKENİNİZ")
 print(client.list_models())
