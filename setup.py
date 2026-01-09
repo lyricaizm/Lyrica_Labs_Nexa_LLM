@@ -8,7 +8,7 @@ requirements = ["requests"]
 
 setup(
     name="lyricalabs-nexa",
-    version="0.3.5",
+    version="0.3.6",
     author="Lyrica Labs",
     author_email="lyricalabs@gmail.com",
     description="Lyrica Labs Nexa LLM API Python İstemci Kütüphanesi",
