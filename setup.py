@@ -16,11 +16,11 @@ setup(
     version="0.1.2",
     packages=find_packages(),
     install_requires=["requests"],
-    python_requires=">=3.8",
+    python_requires=">=3.9",
     description="Lyrica Labs API Python, Nexa LLM",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://lyricalabs.vercel.app",
+    url="https://lyricalabs.com",
     author="Lyrica Labs",
     author_email="lyricalabs@gmail.com",
     classifiers=[
