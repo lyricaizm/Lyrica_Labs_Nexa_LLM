@@ -13,10 +13,10 @@ long_description = read_readme()
 
 setup(
     name="lyricalabs",
-    version="0.1.2",
+    version="0.1.3",
     packages=find_packages(),
     install_requires=["requests"],
-    python_requires=">=3.9",
+    python_requires=">=3.8",
     description="Lyrica Labs API Python, Nexa LLM",
     long_description=long_description,
     long_description_content_type="text/markdown",
